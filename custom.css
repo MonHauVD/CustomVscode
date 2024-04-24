@@ -1,5 +1,5 @@
 .editor-group-watermark > .letterpress
 {
-    background-image: url(https://github.com/MonHauVD/CustomVscode/blob/79e8baa8d149d804e3331efe83a17a45f00f8e6f/VSCode-Thick.png) !important;
+    background-image: url("https://raw.githubusercontent.com/MonHauVD/CustomVscode/e8c7960c5e6ff0bddd3b4dc75cca723b122e2df5/VSCode-Thick.png") !important;
     opacity: 0.75;
 }
